@@ -1,6 +1,6 @@
-#Data Analysis for Louise 
+# Data Analysis for Louise 
 
-##Overview of Project
+## Overview of Project
 In this project we broke down the data to provide better insight into more trends. First, we looked at correlations between the launch date and whether past campaigns were successful, failures, or outright canceled. We then put these values into a pivot table filterable by Years and Parent Category and represented it in a line graph. We used the YEAR function to make a year column for this. Then we used the COUNTIF function to find the percentage of successful, failed, and canceled campaigns that fell within the range of certain fundraising goals. This gave us a better understanding of how campaigns with particular fundraising goals fair historically. We then represented the perecentages in a line graph.
 
 ### Purpose
@@ -22,7 +22,4 @@ I had a very hard time manipulating the graph for Outcomes Based on Goals. Thing
 
 ## Results
 Louise should launch her Kickstarter in the Summer, preferably in May. Also, she should not launch her Kickstarter in December and around the end of the year.
-Louise should keep her fundraising goals below $4,999 for the purposes of her project based on incremental modeling around the success of kickstarter campaigns based on goal amount. It should be noted that the data does not correct for differences in exchange rate between currencies. Therefore data is likely somewhat innaccurate since it does not account for this. The data set is limited. Many of the countries have very few Kickstarters, so the data is skewed heavily towards America and Britain, however this isnt really an issue for Louise. We don't have any data that tells us anything about the types of people that are pledging money. Therefore, there is not much that can be gleaned about who outreach should be directed towards. We also cant break down the plays by genre. A Sub-subcategory would allow us to further narrow down the data to those plays most relevant.
-
-- What are some other possible tables and/or graphs that we could create?
-We could create tables of central tendency and spread as well as quartiles. We could then represent these values in a Box and Whisker graph.
+Louise should keep her fundraising goals below $4,999 for the purposes of her project based on incremental modeling around the success of kickstarter campaigns based on goal amount. It should be noted that the data does not correct for differences in exchange rate between currencies. Therefore data is likely somewhat innaccurate since it does not account for this. The data set is limited. Many of the countries have very few Kickstarters, so the data is skewed heavily towards America and Britain, however this isnt really an issue for Louise. We don't have any data that tells us anything about the types of people that are pledging money. Therefore, there is not much that can be gleaned about who outreach should be directed towards. We also cant break down the plays by genre. A Sub-subcategory would allow us to further narrow down the data to those plays most relevant. We could create tables of central tendency and spread as well as quartiles. We could then represent these values in a Box and Whisker graph.
