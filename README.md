@@ -13,10 +13,9 @@ I had an incredibly difficult time transferring over time data into a pivot tabl
 I was able to glean several trends from graphing the launch date. Campaigns launched in May, June, and July see the greatest success. There is a steady decline in success for campaigns started from May until December with only a little bump October.The end of the year and December in particular is the worst time to launch a campaign. I would recommend Louise launch her campaign in May. 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/66881241/87906102-d16e9d00-ca16-11ea-84b2-8a5fd7081be5.png)
 
-
-
 ### Analysis of Outcomes Based on Goals
 Lower campaign goals have a high degree of desirable outcomes. This tends to decrease as the goal gets higher hitting a lowpoint around goals of 25,000 to 35,000. However there seems to be a fundraising sweetspot between 35,000 and 45,000. However, this value is fairly high. For Lousies purposes, I would recommend she keep her fundraising goals below 15,000 and preferable below 5,000.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/66881241/87906277-34f8ca80-ca17-11ea-88b1-bb3540d85e8f.png)
 
 ### Challenges and Difficulties Encountered
 I had a very hard time manipulating the graph for Outcomes Based on Goals. Things like getting the y-asix to read as a percentage and have "5000 to 9999" in the right place on the x-axis was extremely difficult.
