@@ -11,7 +11,8 @@ I had an incredibly difficult time transferring over time data into a pivot tabl
 
 ### Analysis of Outcomes Based on Launch Date
 I was able to glean several trends from graphing the launch date. Campaigns launched in May, June, and July see the greatest success. There is a steady decline in success for campaigns started from May until December with only a little bump October.The end of the year and December in particular is the worst time to launch a campaign. I would recommend Louise launch her campaign in May. 
-![Theatre Outcomes_vs_Launch](Users/josephthompson/Desktop/Project%20Folder/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/66881241/87906102-d16e9d00-ca16-11ea-84b2-8a5fd7081be5.png)
+
 
 
 ### Analysis of Outcomes Based on Goals
